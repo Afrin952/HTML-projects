@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Build a Video Compilation Page</h1>
+        <p>we are doing the video compilation page now</p>
+        <section>
+            <h2>First section</h2>
+            <p>This will be the first section of our app</p>
+            <iframe width="560"
+      height="315"
+      src="https://www.youtube.com/embed/I0_951_MPE0"
+      title="first vid"></iframe>
+        </section>
+        <section>
+            <h2>Second section</h2>
+            <p>This will be the second section of our app</p>
+            <iframe width="560"
+      height="315"
+      src="https://www.youtube.com/embed/I0_951_MPE0"
+       title="sec vid"></iframe>
+        </section>
+        <section>
+            <h2>Third section</h2>
+            <p>This will be the third section of our app</p>
+            <iframe width="560"
+      height="315"
+      src="https://www.youtube.com/embed/I0_951_MPE0" title="third vid" ></iframe>
+        </section>
+        </main>
+
+</body>
+
+</html>
