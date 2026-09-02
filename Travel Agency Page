@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Explore amazing travel destinations and plan your perfect trip.">
+    <title>Travel Agency Page</title>
+    <body>
+      <h1>Madurai</h1>
+      <p>I am going to madurai to explore our tamil nadu traditions</p>
+      <h2>Packages</h2>
+      <p>My packages include food , tickets,and some expenses</p>
+      <ul>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+      </ul>
+      <h2>Top Itineraries</h2>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="first">
+          </a>
+          <figcaption>This is the first image</figcaption>
+          
+          </figure>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Second">
+          </a>
+          <figcaption>This is the second image</figcaption>
+          
+      </figure>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Third">
+        </a>
+        <figcaption>This is the third image</figcaption>
+        
+      </figure>
+    </body>
+  </head>
+  </html>
